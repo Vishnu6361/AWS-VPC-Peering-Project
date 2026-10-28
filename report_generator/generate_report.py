@@ -28,7 +28,9 @@ DEFAULT_DATA = {
     "BASTION_INSTANCE_ID": "<YOUR_BASTION_INSTANCE_ID>",
     "BASTION_PUBLIC_IP": "<YOUR_BASTION_PUBLIC_IP>",
     "APP_A_INSTANCE_ID": "<YOUR_APP_A_INSTANCE_ID>",
-    "APP_B_INSTANCE_ID": "<YOUR_APP_B_INSTANCE_ID>"
+    "APP_B_INSTANCE_ID": "<YOUR_APP_B_INSTANCE_ID>",
+    "GITHUB_USERNAME": "Vishnu6361",
+    "GITHUB_REPO_URL": "https://github.com/Vishnu6361/AWS-VPC-Peering-Project"
 }
 
 CHECKPOINT_IMAGE_MAP = {
@@ -50,6 +52,7 @@ CHECKPOINT_IMAGE_MAP = {
     "IMG_CONTROLLED_FAIL": "screenshots/checkpoints/16_controlled_failure_icmp_rule_deleted.png",
     "IMG_PEERING_DELETE": "screenshots/checkpoints/17_peering_deletion.png",
     "IMG_EC2_TERMINATED": "screenshots/checkpoints/18_ec2_instances_terminated.png",
+    "IMG_GITHUB_REPO": "screenshots/github_repository.png",
 }
 
 def find_edge_binary():
