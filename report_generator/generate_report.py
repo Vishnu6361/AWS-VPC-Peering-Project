@@ -52,7 +52,6 @@ CHECKPOINT_IMAGE_MAP = {
     "IMG_CONTROLLED_FAIL": "screenshots/checkpoints/16_controlled_failure_icmp_rule_deleted.png",
     "IMG_PEERING_DELETE": "screenshots/checkpoints/17_peering_deletion.png",
     "IMG_EC2_TERMINATED": "screenshots/checkpoints/18_ec2_instances_terminated.png",
-    "IMG_GITHUB_REPO": "screenshots/github_repository.png",
 }
 
 def find_edge_binary():
