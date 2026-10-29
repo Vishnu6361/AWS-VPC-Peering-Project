@@ -15,7 +15,7 @@ Production-grade implementation of bidirectional, non-transitive AWS VPC Peering
 * **Student / Author:** Vishnu C N
 * **GitHub Profile:** [@Vishnu6361](https://github.com/Vishnu6361)
 * **Repository:** [AWS-VPC-Peering-Project](https://github.com/Vishnu6361/AWS-VPC-Peering-Project)
-* **Original Project Credit:** This project adapts the AWS VPC Peering architecture initially authored by [Aditya Pawar](https://github.com/pawaraditya0903) ([AWS-VPC-Peering-Project](https://github.com/pawaraditya0903/AWS-VPC-Peering-Project)) under permission for portfolio demonstration, technical interview defense, and cloud networking internship evaluation. All architectural resources and least-privilege rules have been preserved and verified.
+
 
 ---
 
